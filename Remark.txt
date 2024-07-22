@@ -1,3 +1,5 @@
 File database bisa di import dari folder database proyek_pbl.sql
 Web aplikasi ini terdiri dari 3 users : Owner,admin dan kasir/karyawan.
 Password untuk user owner pradana adalah pradana1234.
+Password untuk user admin restu adalah restu1234.
+Password untuk user karyawan/kasir kasir4 adalah pass1234.
